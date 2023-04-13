@@ -13,7 +13,3 @@
     transition : 0.8s, color 0.8s, transform 0.8s;
     color: white;
 }
-
-.square-clicked{
-    background-color: rgb(38, 51, 47);
-}
