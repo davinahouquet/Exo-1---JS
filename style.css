@@ -1,0 +1,19 @@
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(58, 110, 96);
+    border: 1px solid black;
+    font-size: 2em;
+    text-align: center;
+    line-height: 185px;
+    margin: 160px;
+    animation: appears 1s;
+    border-radius: 5px;
+    cursor : pointer;
+    transition : 0.8s, color 0.8s, transform 0.8s;
+    color: white;
+}
+
+.square-clicked{
+    background-color: rgb(38, 51, 47);
+}
